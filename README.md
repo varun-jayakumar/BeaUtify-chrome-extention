@@ -21,6 +21,10 @@ git clone https://github.com/varun-jayakumar/BeaUtify-chrome-extention.git
 
 ### Before
 
+![BeforeMenuPage](https://github.com/varun-jayakumar/BeaUtify-chrome-extention/blob/main/Screenshots/beforeMenuPage.jpg?raw=true)
+
+![BeforeNavBar](https://github.com/varun-jayakumar/BeaUtify-chrome-extention/blob/main/Screenshots/beforeNavBar.jpg?raw=true)
+
 ### After
 
 ![menuPage](https://github.com/varun-jayakumar/BeaUtify-chrome-extention/blob/main/Screenshots/menuPage.jpg?raw=true)
