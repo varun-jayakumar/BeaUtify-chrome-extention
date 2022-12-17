@@ -1,0 +1,17 @@
+{
+  "name": "BeaUtify",
+  "description": "Make BU link Readable",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.bu.edu/*"],
+      "js": ["app.js"]
+    }
+  ]
+}
